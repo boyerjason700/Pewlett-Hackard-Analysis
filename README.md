@@ -40,7 +40,7 @@ Our analysis produced the following results:
 ## Two additional queries that may produce more insightful results:
 ### Retiring employees department gaps
 - Query to determining which departments will have the largest number of positions to fill left by retiring employees to develop department specific recruitment programs to target new hires
-- 
+
 ![retiring_dept](https://user-images.githubusercontent.com/74840026/128586350-5fe4262b-7c34-4b4f-b9fe-3f2119bbb852.PNG)
 
 ### High Potiential Employees based on length of service and promotion progress
