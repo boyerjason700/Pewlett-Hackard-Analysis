@@ -28,6 +28,7 @@ Pewlett-Hackard is looking towards the future by analyzing its current workforce
 Our analysis produced the following results:
 - 30% of the employee force will be eligible for retirement (90,398 employees)
 - 33% of the total eligible for retirement have the title of Senior Engineer (29,414 employees)
+    - *Verify Manager title data point*
 
 ## Employees eligiable for mentorship program
 *The following criteria was used to determine mentorship eligibility:*
