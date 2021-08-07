@@ -28,5 +28,14 @@ The following criteria was used to determine mentorship eligiablity:
 
 Our analysis produced the following results:
 - 1,549 employees meet the mentorship participation requirements
-- 
+- Based on the current mentorship criteria, retiring employees greatly outnumber mentorship participants by 88,849 positions
+
 # Summary
+- How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+    - If eligiable employees were to retire at the age of 65, roughly 22,600 will be leaving Pewlett Hachard each year.  
+- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+    - The number of mentorship eligiable participants is severly lacking in order to replace the outgoing employees.
+    - Suggest that birth date range be widened to increase number of mentorship eligiable employees.
+Two additional queries that may produce more insightful results:
+- Query to determining which departments will have the largest number of positions to fill left by retiring employees to develop department specific recruitment programs to target new hires
+- Query to view current employees length of service and promotion progress to find high potiential employees to include in mentorship program
