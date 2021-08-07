@@ -51,4 +51,11 @@ INNER JOIN title AS t
 ON (e.emp_no = t.emp_no)
 WHERE (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 AND (de.to_date = '9999-01-01')
-ORDER BY e.emp_no;
+ORDER BY e.emp_no, t.title ASC;
+
+--Table to show count of each title in mentorship age range
+SELECT COUNT(me.emp_no), me.title
+--INTO retiring_titles
+FROM mentorship_eligibilty AS me
+GROUP BY me.title
+ORDER BY COUNT(me.emp_no) DESC;
