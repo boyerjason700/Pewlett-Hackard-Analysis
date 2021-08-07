@@ -15,7 +15,15 @@ The following criteria was used to determine retirement eligiablity:
 
 **Fig. 1-Employees eligiable for retirement by title**
 
-![ret_count_by_dept](https://user-images.githubusercontent.com/74840026/128583422-a84beacf-f841-4f32-a1a7-73479424e6a5.PNG)
+| Title | # eligible for retirement |
+| :------------: | :-------: |
+| Senior Engineer| 29,414 |
+| Senior Staff | 28,254 |
+| Engineer | 14,222 |
+| Staff | 12,243 |
+| Technique Leader | 4,502 |
+| Assistant Engineer | 1,761 |
+| Manager | 2 |
 
 Our analysis produced the following results:
 - 30% of the employee force will be eligiable for retirement(90,398 employees)
@@ -28,7 +36,14 @@ The following criteria was used to determine mentorship eligiablity:
 
 **Fig. 2-Employees eligiable for mentorship program by title**
 
-![mentoring_titles](https://user-images.githubusercontent.com/74840026/128585474-9b4887f4-6687-4bfa-b9cb-32eb7e85df76.PNG)
+| Title | # eligible for mentorship |
+| :------------: | :-------: |
+| Senior Staff| 569 |
+| Engineer | 501 |
+| Senior Engineer | 169 |
+| Staff | 155 |
+| Assistant Engineer | 78 |
+| Technique Leader | 77 |
 
 Our analysis produced the following results:
 - 1,549 employees meet the mentorship participation requirements
