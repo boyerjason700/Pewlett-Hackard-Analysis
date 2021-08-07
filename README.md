@@ -58,15 +58,20 @@ Our analysis produced the following results:
 
 ## Two additional queries that may produce more insightful results:
 ### Retiring employees department gaps
-- Query to determining which departments will have the largest number of positions to fill after 'Silver Tsunami' to develop department specific recruitment programs to target new hires
+- Query to determining which departments will have the largest number of positions to fill after 'Silver Tsunami' to priortize recruitment programs by department.
+ 
+| Department | Retiring employees | % of total department |
+| :------------: | :-------: | :----: |
+| Development| 23,622 | 29% |
+| Production | 18,892 | 28% |
+| Sales | 14,826 | 31% |
+| Customer Service | 6,615 | 36% |
+| Research | 6,056 | 35% |
+| Quality Management | 5,790 | 34% |
+| Human Resources | 5,276 | 33% |
+| Marketing | 4,717 | 26% |
+| Finance | 4,604 | 28% |
 
-**Fig. 3-Vacant positions from retiring employees by department**
-
-![retiring_dept](https://user-images.githubusercontent.com/74840026/128586350-5fe4262b-7c34-4b4f-b9fe-3f2119bbb852.PNG)
-
-**Fig. 4-Current positions after 'Silver Tsunami' by department**
-
-![not_retire_dept](https://user-images.githubusercontent.com/74840026/128587774-b92f7245-67df-4d32-8d7f-902daaf50e02.PNG)
 
 ### High Potiential Employees based on length of service and promotion progress
 - Query to view current employees length of service and promotion progress to find high potiential employees to include in mentorship program
