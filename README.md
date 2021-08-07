@@ -13,6 +13,8 @@ The following criteria was used to determine retirement eligiablity:
 - Last position held
 - Currently employed
 
+**Fig. 1-Employees eligiable for retirement by title**
+
 ![ret_count_by_dept](https://user-images.githubusercontent.com/74840026/128583422-a84beacf-f841-4f32-a1a7-73479424e6a5.PNG)
 
 Our analysis produced the following results:
@@ -23,6 +25,8 @@ Our analysis produced the following results:
 The following criteria was used to determine mentorship eligiablity:
 - Birth date between 1/1/65 thru 12/31/65
 - Currently employed
+
+**Fig. 2-Employees eligiable for mentorship program by title**
 
 ![mentoring_titles](https://user-images.githubusercontent.com/74840026/128585474-9b4887f4-6687-4bfa-b9cb-32eb7e85df76.PNG)
 
@@ -39,9 +43,15 @@ Our analysis produced the following results:
 
 ## Two additional queries that may produce more insightful results:
 ### Retiring employees department gaps
-- Query to determining which departments will have the largest number of positions to fill left by retiring employees to develop department specific recruitment programs to target new hires
+- Query to determining which departments will have the largest number of positions to fill after 'Silver Tsunami' to develop department specific recruitment programs to target new hires
+
+**Fig. 3-Vacant positions from retiring employees by department**
 
 ![retiring_dept](https://user-images.githubusercontent.com/74840026/128586350-5fe4262b-7c34-4b4f-b9fe-3f2119bbb852.PNG)
+
+**Fig. 4-Current positions after 'Silver Tsunami' by department**
+
+![not_retire_dept](https://user-images.githubusercontent.com/74840026/128587774-b92f7245-67df-4d32-8d7f-902daaf50e02.PNG)
 
 ### High Potiential Employees based on length of service and promotion progress
 - Query to view current employees length of service and promotion progress to find high potiential employees to include in mentorship program
