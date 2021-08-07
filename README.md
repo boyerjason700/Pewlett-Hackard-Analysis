@@ -4,7 +4,7 @@
 </p>
 
 # Overview 
-Pewlett-Hackard is looking towards the future by analyzing its current workforce to identify who will be eligible for retirement this year and how many positions will need to be filled.  Using the .csv files provided, we will identify the employees eligiable for retirement, and their departments and also compile a list of employees who will be eligible to participate in a mentorship program.
+Pewlett-Hackard is looking towards the future by analyzing its current workforce to identify who will be eligible for retirement this year and how many positions will need to be filled.  Using the .csv files provided, we will identify the employees eligiable for retirement and their titles, and also compile a list of employees who will be eligible to participate in a mentorship program.
 
 # Results
 ## Employees eligiable for retirement
