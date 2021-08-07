@@ -8,13 +8,25 @@ Pewlett-Hackard is looking towards the future by analyzing its current workforce
 
 # Results
 ## Employees eligiable for retirement
+The following criteria was used to determine retirement eligiablity:
+- Birth date between 1/1/52 thru 12/31/55
+- Last position held
+- Currently employed
+
 ![ret_count_by_dept](https://user-images.githubusercontent.com/74840026/128583422-a84beacf-f841-4f32-a1a7-73479424e6a5.PNG)
 
 Our analysis produced the following results:
 - 30% of the employee force will be eligiable for retirement(90,398 employees)
 - 33% of the total eligiable for retirement have the title of Senior Engineer(29,414 employees)
 
-
 ## Employees eligiable for mentorship program
+The following criteria was used to determine mentorship eligiablity:
+- Birth date between 1/1/65 thru 12/31/65
+- Currently employed
 
+![mentoring_titles](https://user-images.githubusercontent.com/74840026/128585474-9b4887f4-6687-4bfa-b9cb-32eb7e85df76.PNG)
+
+Our analysis produced the following results:
+- 1,549 employees meet the mentorship participation requirements
+- 
 # Summary
