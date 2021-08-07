@@ -1,4 +1,7 @@
 # Pewlett-Hackard-Silver_Tsunami
+<p align="center">
+  <img width="360" height="200" src="https://user-images.githubusercontent.com/74840026/128585331-49b2ea6d-38c9-4ba2-ad1f-a5e9f7dc42e5.png">
+</p>
 
 # Overview 
 Pewlett-Hackard is looking towards the future by analyzing its current workforce to identify who will be eligible for retirement this year and how many positions will need to be filled.  Using the .csv files provided, we will identify the employees eligiable for retirement, and their departments and also compile a list of employees who will be eligible to participate in a mentorship program.
