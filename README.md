@@ -1,8 +1,17 @@
-# Pewlett-Hackard-Analysis
+# Pewlett-Hackard-Silver_Tsunami
 
 # Overview 
-Pewlett-Hackard is looking towards the future by analyzing its current workforce to identify how many and who will be eligible for retirement in the near future.  First to get the number of upcoming retirees and second to identify potiential employees who will be eligable for a newly created mentorship program.  
+Pewlett-Hackard is looking towards the future by analyzing its current workforce to identify who will be eligible for retirement this year and how many positions will need to be filled.  Using the .csv files provided, we will identify the employees eligiable for retirement, and their departments and also compile a list of employees who will be eligible to participate in a mentorship program.
 
 # Results
+## Employees eligiable for retirement
+![ret_count_by_dept](https://user-images.githubusercontent.com/74840026/128583422-a84beacf-f841-4f32-a1a7-73479424e6a5.PNG)
+
+Our analysis produced the following results:
+- 30% of the employee force will be eligiable for retirement(90,398 employees)
+- 33% of the total eligiable for retirement have the title of Senior Engineer(29,414 employees)
+
+
+## Employees eligiable for mentorship program
 
 # Summary
