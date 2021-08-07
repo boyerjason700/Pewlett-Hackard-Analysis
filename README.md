@@ -4,11 +4,11 @@
 </p>
 
 # Overview 
-Pewlett-Hackard is looking towards the future by analyzing its current workforce to identify who will be eligible for retirement this year and how many positions will need to be filled.  Using the .csv files provided, we will identify the employees eligiable for retirement and their titles, and also compile a list of employees who will be eligible to participate in a mentorship program.
+Pewlett-Hackard is looking towards the future by analyzing its current workforce to identify who will be eligible for retirement this year and how many positions will need to be filled.  Using the .csv files provided, we will identify the employees eligible for retirement and their titles, and compile a list of employees who will be eligible to participate in a mentorship program.
 
 # Results
 ## Employees eligiable for retirement
-The following criteria was used to determine retirement eligiablity:
+The following criteria was used to determine retirement eligibility:
 - Birth date between 1/1/52 thru 12/31/55
 - Last position held
 - Currently employed
@@ -26,15 +26,15 @@ The following criteria was used to determine retirement eligiablity:
 | Manager | 2 |
 
 Our analysis produced the following results:
-- 30% of the employee force will be eligiable for retirement(90,398 employees)
-- 33% of the total eligiable for retirement have the title of Senior Engineer(29,414 employees)
+- 30% of the employee force will be eligible for retirement (90,398 employees)
+- 33% of the total eligible for retirement have the title of Senior Engineer (29,414 employees)
 
 ## Employees eligiable for mentorship program
-The following criteria was used to determine mentorship eligiablity:
+The following criteria was used to determine mentorship eligibility:
 - Birth date between 1/1/65 thru 12/31/65
 - Currently employed
 
-**Fig. 2-Employees eligiable for mentorship program by title**
+**Fig. 2-Employees eligible for mentorship program by title**
 
 | Title | # eligible for mentorship |
 | :------------: | :-------: |
@@ -51,14 +51,14 @@ Our analysis produced the following results:
 
 # Summary
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-    - If eligiable employees were to retire at the age of 65, roughly 22,600 will be leaving Pewlett Hachard each year.  
+    - If eligible employees were to retire at the age of 65, roughly 22,600 will be leaving Pewlett Hachard each year.  
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-    - The number of mentorship eligiable participants is severly lacking in order to replace the outgoing employees.
-    - Suggest that birth date range be widened to increase number of mentorship eligiable employees.
+    - The number of mentorship eligible participants is severely lacking to replace the outgoing employees.
+    - Suggest that birth date range be widened to increase number of mentorship eligible employees.
 
 ## Two additional queries that may produce more insightful results:
-### Retiring employees department gaps
-- Query to determining which departments will have the largest number of positions to fill after 'Silver Tsunami' to priortize recruitment programs by department.
+### Retiring employee's department gaps
+- Query to show which departments will have the largest number of positions to fill after 'Silver Tsunami' to prioritize recruitment programs by department.
  
 | Department | Retiring employees | % of total department |
 | :------------: | :-------: | :----: |
@@ -73,5 +73,17 @@ Our analysis produced the following results:
 | Finance | 4,604 | 28% |
 
 
-### High Potiential Employees based on length of service and promotion progress
-- Query to view current employees length of service and promotion progress to find high potiential employees to include in mentorship program
+### Mentorship participants department view
+- Query to show which departments mentorship participants reside in to determine department specific needs
+
+| Department | Mentorship employees |
+| :------------: | :-------: |
+| Development| 396 |
+| Production | 322 |
+| Sales | 244 |
+| Customer Service | 120 |
+| Marketing | 117 |
+| Research | 103 |
+| Human Resources | 97 |
+| Quality Management | 86 |
+| Finance | 64 |
